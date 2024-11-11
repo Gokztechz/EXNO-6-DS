@@ -1,4 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
+# NAME: GOKUL SHARAN R
+# REG NO: 212223040052
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
